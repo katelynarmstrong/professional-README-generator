@@ -3,6 +3,8 @@
 function renderLicenseBadge(license) {
   if (license === "MIT") {
     return `[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)`
+  } else if (license === "Boost 1.0") {
+    return '[[![License](https://img.shields.io/badge/License-Boost_1.0-blue.svg)](https://opensource.org/licenses/Boost-1.0)'
   } else if (license === "Apache 2.0") {
     return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
   }
@@ -14,13 +16,30 @@ function generateMarkdown(data) {
 
   ## Table of Contents
   ---------------------
-  
 
-  ## Description
+  ## GitHub:
+  ${data.github}
+
+  ## Email Me:
+  ${data.email}
+
+  ## Description:
   ${data.description}
 
-  ## License
+  ## If any, what license are you using?
   ${renderLicenseBadge(data.license)}
+
+  ## What command should be run to install dependencies?
+  ${data.dependencies}
+
+  ## What command should be run to run tests?:
+  ${data.tests}
+
+  ## Is there anything important to note of the repository?
+  ${data.repo}
+
+  ## Is there anything important to note about contributing to the repo?
+  ${data.contribute}
 
 `;
 }
