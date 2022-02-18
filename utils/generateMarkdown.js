@@ -44,7 +44,7 @@ function generateMarkdown(data) {
   * [Questions](#questions)
 
   ## License
-  For more information on this license, please see ${licenseLink}
+  For more information on this license, please see ${renderLicenseLink(data.license)}
 
   ## Installation
   ${data.instal}

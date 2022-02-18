@@ -1,8 +1,8 @@
-# GoDog
+# na
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description:
-  This project is about how tough this dog toy brand is!
+  na
   
   ## Table of Contents
   ---------------------
@@ -14,22 +14,21 @@
   * [Questions](#questions)
 
   ## License
-  For more information on this license, please see 
+  For more information on this license, please see https://choosealicense.com/licenses/mit/
 
   ## Installation
   undefined
 
   ## Tests
-  npm test
+  na
 
   ## Repo
-  nothing
+  na
 
   ## Contribute
-  please contribute other tough toy brands!
+  na
 
   ## Questions: 
-  You may email me with any additional questions at: me@me.com
-  <br/>
-  To see other projects review my GitHub: https://github.com/katelynarmstrong
+  You may email me with any additional questions at: na
+  To see other projects review my GitHub: https://github.com/na
 
