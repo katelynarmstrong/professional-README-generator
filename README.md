@@ -1,8 +1,8 @@
-# Southern Miss
-  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+# Coffee
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description:
-  Matt is getting into Southern Mississippi!
+  The benefits of coffee and many recipes
   
   ## Table of Contents
   ---------------------
@@ -14,7 +14,7 @@
   * [Questions](#questions)
 
   ## License
-  For more information on this license, please see undefined
+  For more information on this license, please see https://choosealicense.com/licenses/mit/
 
   ## Installation
   undefined
@@ -26,7 +26,7 @@
   nothing special
 
   ## Contribute
-  just do it
+  please make any additions you see fit
 
   ## Questions: 
   For an questions you may have please reach out to me via eamil katelynarmstrong6@gmail.com or GitHub https://github.com/katelynarmstrong
