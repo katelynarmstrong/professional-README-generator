@@ -6,14 +6,14 @@ function renderLicenseBadge(license) {
   } else if (license === "MIT") {
     return `[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)`
   } else if (license === "Boost 1.0") {
-    return '[[![License](https://img.shields.io/badge/License-Boost_1.0-blue.svg)](https://opensource.org/licenses/Boost-1.0)'
+    return `[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)`
   } else if (license === "Apache 2.0") {
     return `[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)`
   }
 }
 
 //license link
-const renderLicenseLink = license => {
+function renderLicenseLink(license) {
   let licenseLink = 'https://choosealicense.com/licenses/';
   if (license === 'None') {
     return licenseLink = '';
