@@ -59,8 +59,7 @@ function generateMarkdown(data) {
   ${data.contribute}
 
   ## Questions: 
-  You may email me with any additional questions at: ${data.email}
-  To see other projects review my GitHub: https://github.com/${data.github}
+  For an questions you may have please reach out to me via eamil ${data.email} or GitHub https://github.com/${data.github}
 
 `;
 }

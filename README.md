@@ -1,8 +1,8 @@
-# na
-  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+# Southern Miss
+  [![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
 
   ## Description:
-  na
+  Matt is getting into Southern Mississippi!
   
   ## Table of Contents
   ---------------------
@@ -14,21 +14,20 @@
   * [Questions](#questions)
 
   ## License
-  For more information on this license, please see https://choosealicense.com/licenses/mit/
+  For more information on this license, please see undefined
 
   ## Installation
   undefined
 
   ## Tests
-  na
+  npm test
 
   ## Repo
-  na
+  nothing special
 
   ## Contribute
-  na
+  just do it
 
   ## Questions: 
-  You may email me with any additional questions at: na
-  To see other projects review my GitHub: https://github.com/na
+  For an questions you may have please reach out to me via eamil katelynarmstrong6@gmail.com or GitHub https://github.com/katelynarmstrong
 
