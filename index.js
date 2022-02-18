@@ -74,7 +74,7 @@ const promptUser = () => {
           },
           {
             type: 'input',
-            name: 'dependencies',
+            name: 'install',
             message: 'What command should be run to install dependencies? (Required)',
             validate: dependenciesInput => {
               if (dependenciesInput) {
