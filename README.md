@@ -1,8 +1,8 @@
-# Coffee
+# Professional ReadMe Generator
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
   ## Description:
-  The benefits of coffee and many recipes
+  this project generates a professional readme from just a few prompts
   
   ## Table of Contents
   ---------------------
@@ -23,10 +23,10 @@
   npm test
 
   ## Repo
-  nothing special
+  nothing special to note
 
   ## Contribute
-  please make any additions you see fit
+  please contribute your thoughts!
 
   ## Questions: 
   For an questions you may have please reach out to me via eamil katelynarmstrong6@gmail.com or GitHub https://github.com/katelynarmstrong
