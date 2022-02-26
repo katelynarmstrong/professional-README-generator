@@ -1,2 +1,5 @@
 #ignore all node modules
 /node_modules
+
+#ignore random
+.DS_Store
